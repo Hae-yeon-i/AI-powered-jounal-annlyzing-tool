@@ -1,2 +1,4 @@
 # AI-powered-jounal-annlyzing-tool
-same as the name itself. 
+what you gotta prepare to actually run this program on your computer : 
+1. install flask, flask-cors, python
+2. internet connection
